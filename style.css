@@ -1,4 +1,12 @@
 *{
+color:slategray;   
+font-family: serif;
+}
 
-color:slategray;    
+p a {
+  color: blue;
+}
+img{
+height:80px; 
+width:80px;    
 }
