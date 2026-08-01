@@ -1,6 +1,6 @@
 *{
-color:slategray;   
-font-family: serif;
+color:whitesmoke;   
+font-family:  Arial, Helvetica, sans-serif;
 background-color:black;
 }
 
@@ -10,4 +10,15 @@ p a {
 img{
 height:80px; 
 width:80px;    
+}
+div{
+color:black;
+height:200px;
+width:440px;
+border:15px solid orange;
+background-color:green;  
+padding:10px;
+margin:60px;
+box-sizing:border-box;
+display:grid;
 }
